@@ -1,4 +1,249 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- created with bpmn-js / http://bpmn.io -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1257" height="346" viewBox="117 75 1257 346" version="1.1"><defs><pattern id="djs-grid-pattern-498218" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="0.5" cy="0.5" r="0.5" style="fill: rgb(204, 204, 204);"/></pattern></defs><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Event_1n69mp3" transform="matrix(1, 0, 0, 1, 122, 222)" style="display: block;"><g class="djs-visual"><circle cx="18" cy="18" r="18" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><circle cx="18" cy="18" r="11" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white;"/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px;" d="M 18,18 l 2.25,-7.5 m -2.25,7.5 l 5.25,1.5 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(0,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(30,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(60,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(90,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(120,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(150,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(180,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(210,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(240,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(270,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(300,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" transform="rotate(330,18,18)" d="M 18,18 m 0,7.5 l -0,2.25 "/></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="36" height="36"/><circle cx="18" cy="18" r="23" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Activity_1p6sbhc" transform="matrix(1, 0, 0, 1, 240, 200)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="12" y="22">Ingresa a Jira </tspan><tspan x="8" y="36.4">para descargar </tspan><tspan x="12.333332061767578" y="50.8">lista de tickets</tspan><tspan x="20.66666603088379" y="65.19999999999999">pendientes</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="100" height="80"/><rect x="-5" y="-5" rx="14" width="110" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="DataObjectReference_0ou0pzp" transform="matrix(1, 0, 0, 1, 272, 315)" style="display: block;"><g class="djs-visual"><path style="fill: white; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill-opacity: 0.95;" d="m 0,0 28.23529411764706,0 7.058823529411765,8.196721311475411 0,40.98360655737705 -35.294117647058826,0 0,-49.18032786885246 28.23529411764706,0 0,8.196721311475411 7.058823529411765,0"/></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="36" height="50"/><path d="M44.7648 11.3263L36.9892 2.64074C36.0451 1.58628 34.5651 0.988708 33.1904 0.988708H5.98667C3.22688 0.988708 0.989624 3.34892 0.989624 6.26039V55.0235C0.989624 57.9349 3.22688 60.2952 5.98667 60.2952H40.966C43.7257 60.2952 45.963 57.9349 45.963 55.0235V14.9459C45.963 13.5998 45.6407 12.3048 44.7648 11.3263Z" style="stroke-width: 2px; fill: none;" transform="translate(-6, -6)" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Gateway_1t5wrnb" transform="matrix(1, 0, 0, 1, 545, 215)" style="display: block;"><g class="djs-visual"><polygon style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;" points="25,0 50,25 25,50 0,25"/><path style="fill: rgb(34, 36, 42); stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px;" d="m 16,15 7.42857142857143,9.714285714285715 -7.42857142857143,9.714285714285715 3.428571428571429,0 5.714285714285715,-7.464228571428572 5.714285714285715,7.464228571428572 3.428571428571429,0 -7.42857142857143,-9.714285714285715 7.42857142857143,-9.714285714285715 -3.428571428571429,0 -5.714285714285715,7.464228571428572 -5.714285714285715,-7.464228571428572 -3.428571428571429,0 z"/></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="50" height="50"/><rect style="transform-box: fill-box; transform: rotate(45deg); transform-origin: center center 0px; fill: none;" x="2" y="2" rx="4" width="46" height="46" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Activity_1ky2mds" transform="matrix(1, 0, 0, 1, 520, 320)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="11.333332061767578" y="29.200000000000003">Retorna ticket </tspan><tspan x="38.666666984558105" y="43.6">con </tspan><tspan x="17.666667938232422" y="58">observacion</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="100" height="80"/><rect x="-5" y="-5" rx="14" width="110" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Activity_1pkg07z" transform="matrix(1, 0, 0, 1, 390, 200)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="10.333332061767578" y="14.799999999999999">Ingresa a cada</tspan><tspan x="34.333333015441895" y="29.199999999999996">ticket </tspan><tspan x="16.775001525878906" y="43.599999999999994">- Valida que </tspan><tspan x="38.666666984558105" y="57.99999999999999">sea </tspan><tspan x="10.333332061767578" y="72.39999999999999">DEVOLUCION</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="100" height="80"/><rect x="-5" y="-5" rx="14" width="110" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Activity_09tdr3q" transform="matrix(1, 0, 0, 1, 660, 200)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="7.666667938232422" y="36.4">Ingresa sistema</tspan><tspan x="19.66666603088379" y="50.8">de reportes</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="100" height="80"/><rect x="-5" y="-5" rx="14" width="110" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Activity_1xuhvjv" transform="matrix(1, 0, 0, 1, 1000, 200)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="7.333332061767578" y="36.4">ingresa a Jira a </tspan><tspan x="8.333332061767578" y="50.8">solicitar el pago</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="100" height="80"/><rect x="-5" y="-5" rx="14" width="110" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Activity_0jbptdi" transform="matrix(1, 0, 0, 1, 820, 200)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="23.66666603088379" y="36.4">descarga </tspan><tspan x="28" y="50.8">reportes</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="100" height="80"/><rect x="-5" y="-5" rx="14" width="110" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="DataObjectReference_0capisz" transform="matrix(1, 0, 0, 1, 852, 345)" style="display: block;"><g class="djs-visual"><path style="fill: white; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill-opacity: 0.95;" d="m 0,0 28.23529411764706,0 7.058823529411765,8.196721311475411 0,40.98360655737705 -35.294117647058826,0 0,-49.18032786885246 28.23529411764706,0 0,8.196721311475411 7.058823529411765,0"/></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="36" height="50"/><path d="M44.7648 11.3263L36.9892 2.64074C36.0451 1.58628 34.5651 0.988708 33.1904 0.988708H5.98667C3.22688 0.988708 0.989624 3.34892 0.989624 6.26039V55.0235C0.989624 57.9349 3.22688 60.2952 5.98667 60.2952H40.966C43.7257 60.2952 45.963 57.9349 45.963 55.0235V14.9459C45.963 13.5998 45.6407 12.3048 44.7648 11.3263Z" style="stroke-width: 2px; fill: none;" transform="translate(-6, -6)" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Activity_1nikjyp" transform="matrix(1, 0, 0, 1, 1180, 200)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="8.333332061767578" y="14.799999999999999">consolida todos</tspan><tspan x="22" y="29.199999999999996">los tickets </tspan><tspan x="14" y="43.599999999999994">atendidos en </tspan><tspan x="21" y="57.99999999999999">reporte de </tspan><tspan x="15" y="72.39999999999999">devoluciones</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="100" height="80"/><rect x="-5" y="-5" rx="14" width="110" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Event_1f5c4fa" transform="matrix(1, 0, 0, 1, 1332, 222)" style="display: block;"><g class="djs-visual"><circle cx="18" cy="18" r="18" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 4px; fill: white; fill-opacity: 0.95;"/><path style="fill: rgb(34, 36, 42); stroke-linecap: round; stroke-linejoin: round; stroke: white; stroke-width: 1px;" d="m 8.459999999999999,11.34 l 0,12.6 l 18.900000000000002,0 l 0,-12.6 z l 9.450000000000001,5.4 l 9.450000000000001,-5.4"/></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="36" height="36"/><circle cx="18" cy="18" r="24" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Association_1og2e6s" style="display: block;"><g class="djs-visual"><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; stroke-dasharray: 0px, 5px;" data-corner-radius="5" d="M1024,200L998,160"/></g><path d="M1024,200L998,160" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="993" y="155" rx="4" width="36" height="50" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="DataObjectReference_0ou0pzp_label" transform="matrix(1, 0, 0, 1, 247, 372)" style="display: block;"><g class="djs-visual"><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="16.208332061767578" y="9.899999999999999">reporte de </tspan><tspan x="18.049999237060547" y="23.099999999999998">tickets de </tspan><tspan x="0" y="36.3">devolucion SCTR</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="86" height="40"/><rect x="-5" y="-5" rx="4" width="96" height="50" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Gateway_1t5wrnb_label" transform="matrix(1, 0, 0, 1, 540, 177.5)" style="display: block;"><g class="djs-visual"><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="0" y="9.899999999999999">¿validacion </tspan><tspan x="3.366666793823242" y="23.099999999999998">conforme?</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="59" height="27"/><rect x="-5" y="-5" rx="4" width="69" height="37" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Flow_1nirc1p_label" transform="matrix(1, 0, 0, 1, 577, 288)" style="display: block;"><g class="djs-visual"><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="0" y="9.899999999999999">NO</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="17" height="14"/><rect x="-5" y="-5" rx="4" width="27" height="24" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Flow_1l89icr_label" transform="matrix(1, 0, 0, 1, 633, 222)" style="display: block;"><g class="djs-visual"><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="0" y="9.899999999999999">SI</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="11" height="14"/><rect x="-5" y="-5" rx="4" width="21" height="24" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="TextAnnotation_1et76nt" transform="matrix(1, 0, 0, 1, 890, 80)" style="display: block;"><g class="djs-visual"><rect x="0" y="0" width="320" height="80" rx="0" ry="0" style="stroke-linecap: round; stroke-linejoin: round; stroke: none; stroke-width: 2px; fill: none;"/><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px;" d="m 0, 0 m 10,0 l -10,0 l 0,80 l 10,0"/><text style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="7" y="17.799999999999997">SCLIENT </tspan><tspan x="7" y="32.199999999999996">- CONTRATANTE - POLIZA - TIPDOC - EMISION - </tspan><tspan x="7" y="46.599999999999994">ESTADO </tspan><tspan x="7" y="60.99999999999999">- FECEST - TOTAL - COMPREF - FECEMISIONCOM</tspan><tspan x="7" y="75.39999999999999">REF - FECESTADOCOMREF</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="320" height="80"/><rect x="-5" y="-5" rx="4" width="330" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="label_12" transform="matrix(1, 0, 0, 1, 835, 402)" style="display: block;"><g class="djs-visual"><text style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: rgb(34, 36, 42);" lineHeight="1.2" class="djs-label"><tspan x="0" y="9.899999999999999">reporte de NC</tspan></text></g><rect style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-all" x="0" y="0" width="70" height="14"/><rect x="-5" y="-5" rx="4" width="80" height="24" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_0vkm0n5" style="display: block;"><g class="djs-visual"><defs><marker id="marker-7oyx87fh0oy8na99ivucpou4i" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-7oyx87fh0oy8na99ivucpou4i');" data-corner-radius="5" d="M158,240L240,240"/></g><path d="M158,240L240,240" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="153" y="235" rx="4" width="92" height="10" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_0yv9lrh" style="display: block;"><g class="djs-visual"><defs><marker id="marker-1uratgv1yqx4np54ll71v9zk3" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-1uratgv1yqx4np54ll71v9zk3');" data-corner-radius="5" d="M340,240L390,240"/></g><path d="M340,240L390,240" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="335" y="235" rx="4" width="60" height="10" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="DataOutputAssociation_1bmokww" style="display: block;"><g class="djs-visual"><defs><marker id="marker-3vflbt5f17t2847e1xxoh49s6" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1.5px; stroke-dasharray: 10000px, 1px;"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-3vflbt5f17t2847e1xxoh49s6'); stroke-dasharray: 0px, 5px;" data-corner-radius="5" d="M289,280L289,315"/></g><path d="M289,280L289,315" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="284" y="275" rx="4" width="10" height="45" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_1e0wea4" style="display: block;"><g class="djs-visual"><defs><marker id="marker-6tymxpxu2ijj2a9619hefq1co" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-6tymxpxu2ijj2a9619hefq1co');" data-corner-radius="5" d="M490,240L545,240"/></g><path d="M490,240L545,240" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="485" y="235" rx="4" width="65" height="10" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_1l89icr" style="display: block;"><g class="djs-visual"><defs><marker id="marker-1ruffxsj70aoydcve940ly6pb" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-1ruffxsj70aoydcve940ly6pb');" data-corner-radius="5" d="M595,240L660,240"/></g><path d="M595,240L660,240" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="590" y="235" rx="4" width="75" height="10" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_1nirc1p" style="display: block;"><g class="djs-visual"><defs><marker id="marker-97qitatutnzp8e6oyqat6evna" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-97qitatutnzp8e6oyqat6evna');" data-corner-radius="5" d="M570,265L570,320"/></g><path d="M570,265L570,320" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="565" y="260" rx="4" width="10" height="65" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_1iyu99o" style="display: block;"><g class="djs-visual"><defs><marker id="marker-dtkk0gnzbl5aezwk513eellna" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-dtkk0gnzbl5aezwk513eellna');" data-corner-radius="5" d="M760,240L820,240"/></g><path d="M760,240L820,240" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="755" y="235" rx="4" width="70" height="10" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_1rb7721" style="display: block;"><g class="djs-visual"><defs><marker id="marker-dpcwj5q8zosepwqfyags0zwcu" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-dpcwj5q8zosepwqfyags0zwcu');" data-corner-radius="5" d="M920,240L1000,240"/></g><path d="M920,240L1000,240" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="915" y="235" rx="4" width="90" height="10" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="DataInputAssociation_1hmel1k" style="display: block;"><g class="djs-visual"><defs><marker id="marker-duptvnyqw1o7vewys67ksnh2v" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1.5px; stroke-dasharray: 10000px, 1px;"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-duptvnyqw1o7vewys67ksnh2v'); stroke-dasharray: 0px, 5px;" data-corner-radius="5" d="M888,360L1032,280"/></g><path d="M888,360L1032,280" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="883" y="275" rx="4" width="154" height="90" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_0x10lus" style="display: block;"><g class="djs-visual"><defs><marker id="marker-dtefjz2h24wjck5cra0mzzwlj" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-dtefjz2h24wjck5cra0mzzwlj');" data-corner-radius="5" d="M1100,240L1180,240"/></g><path d="M1100,240L1180,240" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="1095" y="235" rx="4" width="90" height="10" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="DataOutputAssociation_09kjns6" style="display: block;"><g class="djs-visual"><defs><marker id="marker-ecbycs3pyxyunkvng1xc46tul" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1.5px; stroke-dasharray: 10000px, 1px;"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-ecbycs3pyxyunkvng1xc46tul'); stroke-dasharray: 0px, 5px;" data-corner-radius="5" d="M869,280L868,345"/></g><path d="M869,280L868,345" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="863" y="275" rx="4" width="11" height="75" style="fill: none;" class="djs-outline"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Flow_1le6510" style="display: block;"><g class="djs-visual"><defs><marker id="marker-cz4fiiz36ahvhfdbvppp4y2gb" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 1px; fill: rgb(34, 36, 42);"/></marker></defs><path style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(34, 36, 42); stroke-width: 2px; marker-end: url('#marker-cz4fiiz36ahvhfdbvppp4y2gb');" data-corner-radius="5" d="M1280,240L1332,240"/></g><path d="M1280,240L1332,240" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;" class="djs-hit djs-hit-stroke"/><rect x="1275" y="235" rx="4" width="62" height="10" style="fill: none;" class="djs-outline"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" id="Definitions_1o8nr3h" targetNamespace="http://bpmn.io/schema/bpmn" exporter="bpmn-js (https://demo.bpmn.io)" exporterVersion="18.12.0">
+  <bpmn:collaboration id="Collaboration_1u2di22">
+    <bpmn:participant id="Participant_0wmwr1y" name="DEVOLUCIONES PRIMA AS-IS" processRef="Process_1ryti16" />
+    <bpmn:textAnnotation id="TextAnnotation_1et76nt">
+      <bpmn:text>SCLIENT - CONTRATANTE - POLIZA - TIPDOC - EMISION - ESTADO - FECEST - TOTAL - COMPREF - FECEMISIONCOMREF - FECESTADOCOMREF</bpmn:text>
+    </bpmn:textAnnotation>
+    <bpmn:association id="Association_1og2e6s" associationDirection="None" sourceRef="Activity_1xuhvjv" targetRef="TextAnnotation_1et76nt" />
+  </bpmn:collaboration>
+  <bpmn:process id="Process_1ryti16" isExecutable="false">
+    <bpmn:laneSet id="LaneSet_0vvj66o">
+      <bpmn:lane id="Lane_0bdxmnc" name="JIRA">
+        <bpmn:flowNodeRef>Activity_1xuhvjv</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Activity_1nikjyp</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Event_1f5c4fa</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Event_1n69mp3</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Gateway_1t5wrnb</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Activity_1pkg07z</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Activity_1p6sbhc</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Activity_1ky2mds</bpmn:flowNodeRef>
+      </bpmn:lane>
+      <bpmn:lane id="Lane_0wlhug8" name="REPORTE (DBS)">
+        <bpmn:flowNodeRef>Activity_09tdr3q</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Activity_0jbptdi</bpmn:flowNodeRef>
+      </bpmn:lane>
+    </bpmn:laneSet>
+    <bpmn:task id="Activity_1xuhvjv" name="ingresa a ticket a solicitar el pago">
+      <bpmn:incoming>Flow_1rb7721</bpmn:incoming>
+      <bpmn:outgoing>Flow_0x10lus</bpmn:outgoing>
+      <bpmn:property id="Property_1pc1acn" name="__targetRef_placeholder" />
+      <bpmn:dataInputAssociation id="DataInputAssociation_1hmel1k">
+        <bpmn:sourceRef>DataObjectReference_0capisz</bpmn:sourceRef>
+        <bpmn:targetRef>Property_1pc1acn</bpmn:targetRef>
+      </bpmn:dataInputAssociation>
+    </bpmn:task>
+    <bpmn:task id="Activity_1nikjyp" name="escribe ticket en historico">
+      <bpmn:incoming>Flow_0x10lus</bpmn:incoming>
+      <bpmn:outgoing>Flow_1le6510</bpmn:outgoing>
+      <bpmn:dataOutputAssociation id="DataOutputAssociation_1323qp0">
+        <bpmn:targetRef>DataObjectReference_1x98vce</bpmn:targetRef>
+      </bpmn:dataOutputAssociation>
+    </bpmn:task>
+    <bpmn:endEvent id="Event_1f5c4fa">
+      <bpmn:incoming>Flow_1le6510</bpmn:incoming>
+      <bpmn:messageEventDefinition id="MessageEventDefinition_09vz3rr" />
+    </bpmn:endEvent>
+    <bpmn:dataObjectReference id="DataObjectReference_0capisz" name="reporte de NC" dataObjectRef="DataObject_1p36by9" />
+    <bpmn:dataObject id="DataObject_1p36by9" />
+    <bpmn:task id="Activity_09tdr3q" name="Ingresa sistema de reportes">
+      <bpmn:incoming>Flow_1l89icr</bpmn:incoming>
+      <bpmn:outgoing>Flow_1iyu99o</bpmn:outgoing>
+    </bpmn:task>
+    <bpmn:task id="Activity_0jbptdi" name="descarga reportes">
+      <bpmn:incoming>Flow_1iyu99o</bpmn:incoming>
+      <bpmn:outgoing>Flow_1rb7721</bpmn:outgoing>
+      <bpmn:dataOutputAssociation id="DataOutputAssociation_09kjns6">
+        <bpmn:targetRef>DataObjectReference_0capisz</bpmn:targetRef>
+      </bpmn:dataOutputAssociation>
+    </bpmn:task>
+    <bpmn:startEvent id="Event_1n69mp3">
+      <bpmn:outgoing>Flow_0vkm0n5</bpmn:outgoing>
+      <bpmn:timerEventDefinition id="TimerEventDefinition_1eecjqm" />
+    </bpmn:startEvent>
+    <bpmn:exclusiveGateway id="Gateway_1t5wrnb" name="valida &#10;ESTADO NC&#10;ESTADO FC&#10;HISTORICO">
+      <bpmn:incoming>Flow_1e0wea4</bpmn:incoming>
+      <bpmn:outgoing>Flow_1nirc1p</bpmn:outgoing>
+      <bpmn:outgoing>Flow_1l89icr</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:task id="Activity_1pkg07z" name="Ingresa a cada ticket">
+      <bpmn:incoming>Flow_0yv9lrh</bpmn:incoming>
+      <bpmn:outgoing>Flow_1e0wea4</bpmn:outgoing>
+      <bpmn:property id="Property_1iak62m" name="__targetRef_placeholder" />
+      <bpmn:dataInputAssociation id="DataInputAssociation_1pmufbn">
+        <bpmn:sourceRef>DataObjectReference_0ou0pzp</bpmn:sourceRef>
+        <bpmn:targetRef>Property_1iak62m</bpmn:targetRef>
+      </bpmn:dataInputAssociation>
+    </bpmn:task>
+    <bpmn:task id="Activity_1p6sbhc" name="Ingresa a Jira para descargar lista de tickets pendientes">
+      <bpmn:incoming>Flow_0vkm0n5</bpmn:incoming>
+      <bpmn:outgoing>Flow_0yv9lrh</bpmn:outgoing>
+      <bpmn:dataOutputAssociation id="DataOutputAssociation_1bmokww">
+        <bpmn:targetRef>DataObjectReference_0ou0pzp</bpmn:targetRef>
+      </bpmn:dataOutputAssociation>
+    </bpmn:task>
+    <bpmn:dataObjectReference id="DataObjectReference_0ou0pzp" name="reporte de tickets de devolucion SCTR" dataObjectRef="DataObject_0wx80ko" />
+    <bpmn:dataObject id="DataObject_0wx80ko" />
+    <bpmn:task id="Activity_1ky2mds" name="Retorna ticket con observacion">
+      <bpmn:incoming>Flow_1nirc1p</bpmn:incoming>
+    </bpmn:task>
+    <bpmn:dataObjectReference id="DataObjectReference_1x98vce" name="historico" dataObjectRef="DataObject_179di0s" />
+    <bpmn:dataObject id="DataObject_179di0s" />
+    <bpmn:sequenceFlow id="Flow_1rb7721" sourceRef="Activity_0jbptdi" targetRef="Activity_1xuhvjv" />
+    <bpmn:sequenceFlow id="Flow_0x10lus" sourceRef="Activity_1xuhvjv" targetRef="Activity_1nikjyp" />
+    <bpmn:sequenceFlow id="Flow_1le6510" sourceRef="Activity_1nikjyp" targetRef="Event_1f5c4fa" />
+    <bpmn:sequenceFlow id="Flow_1l89icr" name="CONFORME" sourceRef="Gateway_1t5wrnb" targetRef="Activity_09tdr3q" />
+    <bpmn:sequenceFlow id="Flow_1iyu99o" sourceRef="Activity_09tdr3q" targetRef="Activity_0jbptdi" />
+    <bpmn:sequenceFlow id="Flow_0vkm0n5" sourceRef="Event_1n69mp3" targetRef="Activity_1p6sbhc" />
+    <bpmn:sequenceFlow id="Flow_1e0wea4" sourceRef="Activity_1pkg07z" targetRef="Gateway_1t5wrnb" />
+    <bpmn:sequenceFlow id="Flow_1nirc1p" name="NO CONFORME" sourceRef="Gateway_1t5wrnb" targetRef="Activity_1ky2mds" />
+    <bpmn:sequenceFlow id="Flow_0yv9lrh" sourceRef="Activity_1p6sbhc" targetRef="Activity_1pkg07z" />
+  </bpmn:process>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_1">
+    <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Collaboration_1u2di22">
+      <bpmndi:BPMNShape id="Participant_0wmwr1y_di" bpmnElement="Participant_0wmwr1y" isHorizontal="true">
+        <dc:Bounds x="160" y="80" width="1320" height="600" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_0bdxmnc_di" bpmnElement="Lane_0bdxmnc" isHorizontal="true">
+        <dc:Bounds x="190" y="80" width="1290" height="320" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_0wlhug8_di" bpmnElement="Lane_0wlhug8" isHorizontal="true">
+        <dc:Bounds x="190" y="400" width="1290" height="280" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1xuhvjv_di" bpmnElement="Activity_1xuhvjv">
+        <dc:Bounds x="1090" y="230" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1nikjyp_di" bpmnElement="Activity_1nikjyp">
+        <dc:Bounds x="1250" y="230" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_1f5c4fa_di" bpmnElement="Event_1f5c4fa">
+        <dc:Bounds x="1412" y="252" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="BPMNShape_11171pb" bpmnElement="DataObjectReference_0capisz">
+        <dc:Bounds x="952" y="445" width="36" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="935" y="421" width="70" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_09tdr3q_di" bpmnElement="Activity_09tdr3q">
+        <dc:Bounds x="760" y="550" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_0jbptdi_di" bpmnElement="Activity_0jbptdi">
+        <dc:Bounds x="920" y="550" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_1n69mp3_di" bpmnElement="Event_1n69mp3">
+        <dc:Bounds x="232" y="212" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Gateway_1t5wrnb_di" bpmnElement="Gateway_1t5wrnb" isMarkerVisible="true">
+        <dc:Bounds x="645" y="205" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="638" y="133" width="64" height="53" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1pkg07z_di" bpmnElement="Activity_1pkg07z">
+        <dc:Bounds x="490" y="190" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1p6sbhc_di" bpmnElement="Activity_1p6sbhc">
+        <dc:Bounds x="330" y="190" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="DataObjectReference_0ou0pzp_di" bpmnElement="DataObjectReference_0ou0pzp">
+        <dc:Bounds x="362" y="285" width="36" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="337" y="342" width="86" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1ky2mds_di" bpmnElement="Activity_1ky2mds">
+        <dc:Bounds x="810" y="190" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="DataObjectReference_1x98vce_di" bpmnElement="DataObjectReference_1x98vce">
+        <dc:Bounds x="1282" y="325" width="36" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1280" y="382" width="41" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="Flow_1rb7721_di" bpmnElement="Flow_1rb7721">
+        <di:waypoint x="1020" y="590" />
+        <di:waypoint x="1045" y="590" />
+        <di:waypoint x="1045" y="270" />
+        <di:waypoint x="1090" y="270" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0x10lus_di" bpmnElement="Flow_0x10lus">
+        <di:waypoint x="1190" y="270" />
+        <di:waypoint x="1250" y="270" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1le6510_di" bpmnElement="Flow_1le6510">
+        <di:waypoint x="1350" y="270" />
+        <di:waypoint x="1412" y="270" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1l89icr_di" bpmnElement="Flow_1l89icr">
+        <di:waypoint x="670" y="255" />
+        <di:waypoint x="670" y="590" />
+        <di:waypoint x="760" y="590" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="687" y="572" width="65" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1iyu99o_di" bpmnElement="Flow_1iyu99o">
+        <di:waypoint x="860" y="590" />
+        <di:waypoint x="920" y="590" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0vkm0n5_di" bpmnElement="Flow_0vkm0n5">
+        <di:waypoint x="268" y="230" />
+        <di:waypoint x="330" y="230" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1e0wea4_di" bpmnElement="Flow_1e0wea4">
+        <di:waypoint x="590" y="230" />
+        <di:waypoint x="645" y="230" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1nirc1p_di" bpmnElement="Flow_1nirc1p">
+        <di:waypoint x="695" y="230" />
+        <di:waypoint x="810" y="230" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="708" y="207" width="84" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0yv9lrh_di" bpmnElement="Flow_0yv9lrh">
+        <di:waypoint x="430" y="230" />
+        <di:waypoint x="490" y="230" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Association_1og2e6s_di" bpmnElement="Association_1og2e6s">
+        <di:waypoint x="1104" y="230" />
+        <di:waypoint x="1078" y="200" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="TextAnnotation_1et76nt_di" bpmnElement="TextAnnotation_1et76nt">
+        <dc:Bounds x="960" y="120" width="320" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="DataInputAssociation_1hmel1k_di" bpmnElement="DataInputAssociation_1hmel1k">
+        <di:waypoint x="988" y="452" />
+        <di:waypoint x="1130" y="310" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataOutputAssociation_1323qp0_di" bpmnElement="DataOutputAssociation_1323qp0">
+        <di:waypoint x="1299" y="310" />
+        <di:waypoint x="1299" y="325" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataOutputAssociation_09kjns6_di" bpmnElement="DataOutputAssociation_09kjns6">
+        <di:waypoint x="969" y="550" />
+        <di:waypoint x="968" y="495" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataInputAssociation_1pmufbn_di" bpmnElement="DataInputAssociation_1pmufbn">
+        <di:waypoint x="398" y="304" />
+        <di:waypoint x="508" y="270" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataOutputAssociation_1bmokww_di" bpmnElement="DataOutputAssociation_1bmokww">
+        <di:waypoint x="379" y="270" />
+        <di:waypoint x="379" y="285" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>
